@@ -24,6 +24,7 @@ User friendly-ish
 * [Offline PS4 Remote Play](https://github.com/MysteryDash/Offline-PS4-Remote-Play) – Enjoy playing on your PS4 from PC without need of an internet connection.
 * [PS4 Remote Play](https://github.com/delroth/ps4-remote-play) – An open source PS4 Remote Play client, based on reverse engineered protocol documentation.
 * [PS4 Player](https://github.com/DVSoftware/ps4player) – Video streamer for PS4.
+* [psDLCIndex](https://github.com/GarnetSunset/psDLCIndex) – Playstation Store DLC Indexer, and list generator.
 * [PS4 Time Tracking](https://github.com/snipem/ps4-time-tracking) – Util for tracking PS4 usage times.
 * [PS4 DB Rebuilder](https://github.com/Zer0xFF/PS4_db_rebuilder) – Repopulate PS4 database with Fpkgs.
 * [PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter) – Allows you to mount save data as Read/Write.
@@ -91,7 +92,7 @@ User friendly-ish
 * [PS4 5.05 ESP8266](https://github.com/BYdjBr/PS4-5.05-ESP8266) – PS4 5.05 Playground for ESP8266.
 
 ## Dev Tools
-* [PS4 SDK Docker] – Docker image with [PS4 SDK](https://github.com/CTurt/PS4-SDK) and [Elf 
+* [PS4 SDK Docker](https://github.com/ooPo/ps4sdk-docker) – Docker image with [PS4 SDK](https://github.com/CTurt/PS4-SDK) and [Elf 
 Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew development.
 * [PS4_Tools](https://github.com/xXxTheDarkprogramerxXx/PS4_Tools) – Collection Of Open Source PS4 Tools all in one Library.
 * [PS4 Elf Loader](https://github.com/ps4dev/elf-loader) – Run PS4 SDK .elf files via TCP on your PS4.
