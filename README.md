@@ -32,6 +32,7 @@ User friendly-ish
 * [PS4 Wallpaper Helper](https://github.com/xingoxu/ps4-wallpaper-helper) – A tool help you to change PS4 (after 4.50) wallpaper and profile page image.
 * [PS4 Save Search](https://github.com/mroshaw/PS4SaveSearch) – A tool to incrementally search decrpyted PS4 saves.
 * [PS4 Rpc](https://github.com/Frankity/Ps4Rpc) – Share what are you playing into Discord Rich Presence.
+* [fMSX for PS4](https://github.com/psxdev/fmsx) – fMSX is an emulator made by Marat Fayzullin.
 
 ### Mods
 * [PS4 GTAV Menu Base](https://github.com/2much4u/PS4-GTA-V-Menu-Base) – A mod menu GUI for PS4 GTA V buit on top of [native caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
@@ -70,6 +71,7 @@ User friendly-ish
 * [Lib HomeBrew](https://github.com/cfwprpht/libhb-master) – LibHomebrew. A PS4 Homebrewing Library.
 * [HEN PS4 SDK](https://github.com/zecoxao/HEN-PS4-SDK) – Fork of [Cturt's PS4 SDK](https://github.com/CTurt/PS4-SDK) for 1.76 with added HEN support.
 * [PS4 SDM](https://github.com/cfwprpht/PS4-SDM) – Modification of the [Open Source Scene SDK](https://github.com/CTurt/PS4-SDK).
+* [PS4 SDK 5.05](https://github.com/psxdev/ps4sdk/tree/firmware505) – Modular open source ps4 sdk with user and kernel space support by [psxdev](https://github.com/psxdev).
 
 ## Kernel Exploits
 * [PS4 5.01-5.05 Kernel Exploit by Anonymous](https://github.com/Anonym00S/PS4-5.01-5.05-Kernel-Exploit-BY-Anonymous) – A fully implemented kernel exploit for the PS4 on 5.01-5.05 FW.
@@ -90,6 +92,7 @@ User friendly-ish
 * [WebKit 5.50 not full version v3](https://github.com/ciss84/webkit-5.50-not-full-version-v3) – WebKit exploit for 5.50 FW.
 * [PS4 4.70 WebKit Exploit](https://github.com/LordYusei/PS4-4.70-WebKit-Exploit) – A WIP WebKit exploit for PS4 4.70 FW.
 * [PS4 5.05 ESP8266](https://github.com/BYdjBr/PS4-5.05-ESP8266) – PS4 5.05 Playground for ESP8266.
+* [PS4_JSC_ConcatMemcpy_POC](https://github.com/C0rpVultra/PS4_jsc_ConcatMemcpy_POC) – PS4 6.XX WebKit Exploit PoC.
 
 ## Dev Tools
 * [PS4 SDK Docker](https://github.com/ooPo/ps4sdk-docker) – Docker image with [PS4 SDK](https://github.com/CTurt/PS4-SDK) and [Elf 
@@ -128,6 +131,12 @@ Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew dev
 * [Siscon](https://github.com/zecoxao/siscon) – Syscon firmware decrypter for PS4.
 * [Rco Dump](https://github.com/angguss/rco-dump) – Dump the contents of an RCO file from a PSVITA or PS4.
 * [Make FSELF GUI](https://github.com/cfwprpht/Make_FSELF_GUI) – A grafical User Interface for flat_z make_fself.py script.
+* [PS4 CleanELF](https://github.com/skiffaw/PS4-CleanELF) – Cleaned elf for PS4 supporting c++ and includes imports and utility classes.
+* [PS4 Homebrew Vagrant](https://github.com/justanormaldev/ps4-homebrew-vagrant) – A vagrant box for PS4 homebrew execution and development.
+* [OrbisFixElf](https://github.com/CrazyVoidProgrammer/OrbisFixElf) – Tool to rewrite an open sdk elf sections and custom stubs to resemble offical orbis elfs.
+* [PSN_Get_Pkg_Info.py](https://github.com/windsurfer1122/PSN_get_pkg_info) – Extract package information from header and PARAM.SFO of PS3/PSX/PSP/PSV/PSM and PS4 packages.
+* [Param_Sfo_Tools](https://github.com/FennyFatal/param_sfo_tools) – Tools to inspect param.sfo from PS4.
+* [PS4 Self Info](https://github.com/idc/ps4-self_info) – Get information from .elf/.self files.
 
 ## Linux
 * [PS4 Linux](https://github.com/fail0verflow/ps4-linux) – Linux kernel fork with PS4 support.
@@ -144,3 +153,5 @@ Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew dev
 * [HowToBuildWithUnityPS4FakePKG](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG) – How To Build FPKG with Unity PS4.
 * [PS4 WiFi BT](https://github.com/x0rloser/ps4_wifi_bt) – PS4 wifi/bluetooth firmware ~~reversing~~ h4x.
 * [PS2 Configs](https://github.com/kozarovv/PS2-Configs) – Custom configuration files for PS2 emulator used in PS4.
+* [PS4 GL Test](https://github.com/flatz/ps4_gl_test) – OpenGL ES test by [flatz](https://github.com/flatz).
+* [Orbis GL Test](https://github.com/orbisdev/samples/tree/master/orbis_gl_test) – This is a basic sample using GL ES 2.0 and Open SDK, based on sample published by [flatz](https://github.com/flatz).
