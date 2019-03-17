@@ -138,6 +138,7 @@ Loader](https://github.com/ps4dev/elf-loader). Ready to be used for homebrew dev
 * [Param_Sfo_Tools](https://github.com/FennyFatal/param_sfo_tools) – Tools to inspect param.sfo from PS4.
 * [PS4 Self Info](https://github.com/idc/ps4-self_info) – Get information from .elf/.self files.
 * [Liborbis PKF Loading](https://github.com/LightningMods/Liborbis-PKG-Loading-Source) – PKG -> eboot starts PRX -> PRX recursively searches for homebrew.elf in a sandbox -> find it then allocates memory etc -> launches elf -> elf loads the assets -> finish loading.
+* [ps4flashtool](https://github.com/jogolden/ps4flashtool) - PlayStation 4 Flash Tool by golden (Only for devs.)
 
 ## Linux
 * [PS4 Linux](https://github.com/fail0verflow/ps4-linux) – Linux kernel fork with PS4 support.
