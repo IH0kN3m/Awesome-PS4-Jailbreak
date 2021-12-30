@@ -74,6 +74,7 @@ User friendly-ish
 * [PS4 SDK 5.05](https://github.com/psxdev/ps4sdk/tree/firmware505) – Modular open source ps4 sdk with user and kernel space support by [psxdev](https://github.com/psxdev).
 
 ## Kernel Exploits
+# [PS5 9.00 Kernel Exploit](https://github.com/ChendoChap/pOOBs4) - A fully implemented kernel exploit for the PS4 on 9.00 FW.
 * [PS4 5.01-5.05 Kernel Exploit by Anonymous](https://github.com/Anonym00S/PS4-5.01-5.05-Kernel-Exploit-BY-Anonymous) – A fully implemented kernel exploit for the PS4 on 5.01-5.05 FW.
 * [PS4 4.05 Kernel Exploit](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit) – A fully implemented kernel exploit for the PS4 on 4.05 FW.
 * [PS4 5.05 Kernel Exploit](https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit) – A fully implemented kernel exploit for the PS4 on 5.05 FW.
